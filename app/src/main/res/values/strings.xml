@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Fakta Fauna</string>
+
+    <string name="animals_name">Nama Hewan Endemik</string>
+    <string name="description">Deskripsi</string>
+    <string name="my_name_damarjati">Damarjati Surya Kusuma</string>
+    <string name="my_email_bangkit">a210dsx1407@bangkit.academy</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="splash_text">Fakta Fauna</string>
+    <string name="category">Katagori :</string>
+    <string name="food">Makanan</string>
+    <string name="heavy">Berat</string>
+    <string name="share">Share</string>
+    <string name="area_distribution">Area sebaran</string>
+    <string-array name="data_name">
+        <item>Anoa</item>
+        <item>Babi Rusa</item>
+        <item>Badak Jawa</item>
+        <item>Burung Maleo</item>
+        <item>Cendrawasih</item>
+        <item>Elang Jawa</item>
+        <item>Harimau Sumatra</item>
+        <item>Kakaktua Raja Hitam</item>
+        <item>Komodo</item>
+        <item>Kuskus</item>
+        <item>Orangutan Tapanuli</item>
+        <item>Rangkong Gading</item>
+        <item>Tapir</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Anoa (Bubalus sp.) atau kerbau kenit adalah mamalia terbesar dan endemik yang hidup di daratan Pulau Sulawesi dan Pulau Buton. Banyak yang menyebut anoa sebagai kerbau kerdil. Anoa merupakan hewan yang tergolong fauna peralihan. Anoa merupakan mamalia tergolong dalam famili bovidae yang tersebar hampir di seluruh pulau Sulawesi. Kawasan Wallacea yang terdiri atas pulau Sulawesi, Maluku, Halmahera, Kepulauan Flores, dan pulaupulau kecil di Nusa Tenggara. Wilayah ini unik karena banyak memiliki flora dan fauna yang endemik dan merupakan kawasan peralihan antara benua Asia dan Australia.</item>
+        <item>Babi rusa atau babirusa (Babyrousa) adalah marga binatang yang termasuk kerabat babi liar, bertaring panjang yang mencuat dan melengkung di atas moncongnya, hidup berkelompok di sekitar daerah rawa-rawa dan semak-semak, mencari makan pada malam hari, pada siang hari tidur, makanannya terdiri atas umbi, akar, binatang tanah, buah-buahan, dan kelapa yang jatuh. Habitat babi rusa banyak ditemukan di hutan hujan tropis. Hewan ini gemar melahap buah-buahan dan tumbuhan, seperti mangga, jamur, dan dedaunan. Mereka hanya berburu makanan pada malam hari untuk menghindari beberapa binatang buas yang sering menyerang.</item>
+        <item>Badak Jawa (Rhinoceros sondaicus), disebut juga Badak sumbu, Badak sunda (sesuai dengan nama latinnya) atau badak bercula satu kecil, adalah sebuah anggota famili Rhinocerotidae dan merupakan salah satu dari lima spesies badak yang masih ada. Badak India, yang berbagi genus yang sama, memilki kulit bermosaik yang menyerupai baju baja, yang memiliki kemiripan dengan badak Jawa meskipun ukurannya lebih besar. Badak Jawa memiliki badan dengan panjang 3,1–3,2 m dan tinggi 1,4–1,7 m. Badak Jawa memiliki ukuran cula terkecil dibandingkan dengan cula spesies-spesies badak lainnya sedangkan Badak Jawa betina tidak memiliki cula sama sekali.</item>
+        <item>Maleo Senkawor atau Maleo, yang dalam nama ilmiahnya Macrocephalon maleo adalah sejenis burung gosong berukuran sedang, dengan panjang sekitar 55 cm, dan merupakan satu-satunya burung di dalam genus tunggal Macrocephalon. Yang unik dari maleo adalah, saat baru menetas anak burung maleo sudah bisa terbang. Ukuran telur burung maleo beratnya 240 gram hingga 270 gram per butirnya, ukuran rata-rata 11 cm, dan perbandingannya sekitar 5 hingga 8 kali lipat dari ukuran telur ayam. Namun saat ini mulai terancam punah karena habitat yang makin sempit dan telur-telurnya yang diambil oleh manusia. Diperkirakan jumlahnya kurang dari 10.000 ekor saat ini.</item>
+        <item>Burung Cenderawasih adalah anggota famili Paradisaeidae dari ordo Passeriformes. Cenderawasih biasanya ditemukan di Indonesia seperti di bagian Timur Papua, Papua Nugini, pulau-pulau selat Torres, dan Australia timur. Burung anggota keluarga ini dikenal karena bulu burung jantan pada banyak jenisnya, terutama bulu yang sangat memanjang dan rumit yang tumbuh dari paruh, sayap atau kepalanya. Ukuran burung Cenderawasih mulai dari Cenderawasih raja pada 50 gram dan 15 cm hingga Cenderawasih paruh-sabit Hitam pada 110 cm dan Cenderawasih manukod jambul-bergulung pada 430 gram.</item>
+        <item>Elang jawa (Nisaetus bartelsi) adalah salah satu spesies elang berukuran sedang dari keluarga Accipitridae dan genus Nisaetus yang endemik di Pulau Jawa. Satwa ini dianggap identik dengan lambang negara Republik Indonesia, yaitu Garuda. Dan sejak 1992, burung ini ditetapkan sebagai maskot satwa langka Indonesia.</item>
+        <item>Harimau sumatra adalah populasi Panthera tigris sondaica yang mendiami pulau Sumatra, Indonesia dan satu-satunya anggota subspesies harimau sunda yang masih bertahan hidup hingga saat ini. Ia termasuk dalam klasifikasi satwa kritis yang terancam punah (critically endangered) dalam daftar merah spesies terancam yang dirilis Lembaga Konservasi Dunia IUCN. Populasi liar diperkirakan antara 400-500 ekor, terutama hidup di Pegunungan Bukit Barisan jama sejarah taman-taman nasional di Sumatra jaman pra-sejarah. Uji genetik mutakhir telah mengungkapkan tanda-tanda genetik yang unik, yang menandakan bahwa subspesies ini mungkin berkembang menjadi spesies terpisah, bila berhasil lestari.</item>
+        <item>Kakatua-raja Hitam adalah burung yang berasal dari keluarga Cacatuidae. Dengan subfamilia Microglossinae.Burung ini memiliki nama ilmiah Probosciger aterrimus. Termasuk dalam keluarga kakatua dan burung beo. Burung ini berasal dari subfamili Microglossinae. Burung ini termasuk spesies yang dilindungi negara.</item>
+        <item>Komodo atau lengkapnya biawak komodo (Varanus komodoensis), adalah spesies biawak besar yang terdapat di Pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Hewan ini oleh penduduk asli pulau Komodo juga disebut dengan nama setempat ora. Nama lain dari komodo adalah buaya darat, walaupun komodo bukanlah spesies buaya. Komodo merupakan spesies terbesar dari familia Varanidae, sekaligus kadal terbesar di dunia, dengan rata-rata panjang 2-3 meter dan beratnya bisa mencapai 100 kg. Komodo merupakan pemangsa puncak di habitatnya karena sejauh ini tidak diketahui adanya hewan karnivora besar lain selain biawak ini di sebarang geografisnya.</item>
+        <item>Kuskus beruang talaud (Ailurops melanotis) adalah spesies marsupial dari keluarga Phalangeridae. Kuskus beruang talaud adalah hewan endemik dari Pulau Salibabu bagian dari Kabupaten Kepulauan Talaud. Hewan ini memiliki habitat pada iklim subtropik atau di hutan tropik</item>
+        <item>Orang utan tapanuli (Pongo tapanuliensis) merupakan salah satu spesies dari genus orang utan (Pongo) yang berasal dari daerah Tapanuli, Sumatra. Tapanuli. Orang utan tapanuli merupakan tambahan spesies baru sekaligus spesies ketiga yang ditemukan setelah spesies orang utan kalimantan (Pongo pygmaeus) dan orang utan sumatera (Pongo abelii).</item>
+        <item>Burung ini ditemukan di Semenanjung Malaya, Sumatra, dan Kalimantan. Burung ini juga menjadi maskot Provinsi Kalimantan Barat, dan termasuk dalam jenis fauna yang dilindungi undang-undang. Di seluruh dunia terdapat 54 jenis burung rangkong. Burung rangkong mempunyai sebaran mulai dari daerah sub-sahara Afrika, India, Asia Tenggara, New Guinea dan Kepulauan Solomon Sebagian besar hidup di hutan hujan tropis dan hanya beberapa jenis saja yang hidup di daerah kering seperti di Afrika.</item>
+        <item>Tapir adalah binatang herbivora yang memakan dedaunan muda di sepanjang hutan atau pinggiran sungai. Tapir memiliki bentuk tubuh seperti babi, telinga yang mirip badak dan moncongnya yang panjang mirip trenggiling, sementara lenguhannya lebih mirip suara burung daripada binatang mamalia. Tapir merupakan hewan yang soliter, kecuali pada musim kawinnya. Aktivitasnya lebih banyak pada malam hari (nokturnal). Aktivitas makan biasanya dilakukan sambil tetap terus berpindah dalam jalur yang berpindah-pindah. Jangkauan jelajah tapir sangat luas karena mereka cenderung berjalan jauh untuk menemukan lokasi yang kaya garam mineral bukti arkeologi terbaru mengindikasikan bahwa hewan dengan nama latin Tapirus indicus ini pernah hidup di Kalimantan setidaknya sampai 1.500 tahun yang lalu.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/anoa</item>
+        <item>@drawable/babi_rusa</item>
+        <item>@drawable/badak_jawa</item>
+        <item>@drawable/burung_maleo</item>
+        <item>@drawable/cendrawasih</item>
+        <item>@drawable/elang_jawa</item>
+        <item>@drawable/harimau_sumatra</item>
+        <item>@drawable/kakaktua_kepala_hitam</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/kuskus</item>
+        <item>@drawable/orangutan</item>
+        <item>@drawable/rangkong_gading</item>
+        <item>@drawable/tapir</item>
+    </integer-array>
+    <string-array name="data_category">
+        <item>Mamalia</item>
+        <item>Mamalia</item>
+        <item>Mamalia</item>
+        <item>Unggas</item>
+        <item>Unggas</item>
+        <item>Unggas</item>
+        <item>Mamalia</item>
+        <item>Unggas</item>
+        <item>Reptil</item>
+        <item>Mamalia</item>
+        <item>Mamalia</item>
+        <item>Unggas</item>
+        <item>Mamalia</item>
+    </string-array>
+    <string-array name="data_food">
+        <item>Makanan : Rumput dan dedaunan</item>
+        <item>Makanan : Rumput, dedaunan, dan buah</item>
+        <item>Makanan : Rumput, dedaunan, dan tunas</item>
+        <item>Makanan : Serangga, hewa kecil, dan biji bijian</item>
+        <item>Makanan : Makanan : Serangga, hewa kecil, dan biji bijian</item>
+        <item>Makanan : Mamalia kecil, ikan, dan burung kecil</item>
+        <item>Makanan : Daging</item>
+        <item>Makanan : Makanan : Biji bijian dan buah</item>
+        <item>Makanan : Daging</item>
+        <item>Makanan : Serangga, dedaunan, dan hewan kecil</item>
+        <item>Makanan : Dedaunan, buah, dan serangga</item>
+        <item>Makanan : Buah beringin atau ara berukuran besar</item>
+        <item>Makanan : Rumput, dedaunan, dan buah</item>
+    </string-array>
+    <string-array name="data_heavy">
+        <item>Berat : 150 - 300kg</item>
+        <item>Berat : 70 - 90kg</item>
+        <item>Berat : 1200 - 2200kg</item>
+        <item>Berat : 340 - 470gram</item>
+        <item>Berat : 50 - 410gram</item>
+        <item>Berat : - </item>
+        <item>Berat : 120 - 160kg</item>
+        <item>Berat : 500 - 1100gram</item>
+        <item>Berat : 68 - 91kg</item>
+        <item>Berat : 6 - 8kg</item>
+        <item>Berat : 30 - 100kg</item>
+        <item>Berat : 2.6 - 3.1kg</item>
+        <item>Berat : 240 - 260kg</item>
+    </string-array>
+    <string-array name="data_area_distribution">
+        <item>Sebaran wilayah : Pulau Sulawesi dan Pulau Buton</item>
+        <item>Sebaran wilayah : Pulau Sulawesi dan sekitarnya</item>
+        <item>Sebaran wilayah : Ujung Kulon</item>
+        <item>Sebaran wilayah : Pulau Sulawesi</item>
+        <item>Sebaran wilayah : Pulau Papua</item>
+        <item>Sebaran wilayah : Pulau Jawa</item>
+        <item>Sebaran wilayah : Pulau Sumatra</item>
+        <item>Sebaran wilayah : Pulau Papua</item>
+        <item>Sebaran wilayah : Pulau Komodo</item>
+        <item>Sebaran wilayah : Kepulauan Talaud dan Sangihe (ujung pulau sulawesi)</item>
+        <item>Sebaran wilayah : Pulau Kalimantan dan Sumatra</item>
+        <item>Sebaran wilayah : Pulau Kalimantan dan Sumatra</item>
+        <item>Sebaran wilayah : Pulau Sumatra (Selatan Danau Toba - Lampung)</item>
+    </string-array>
+
+</resources>

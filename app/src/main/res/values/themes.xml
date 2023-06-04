@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AppAnimal" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green_fakta_fauna_1</item>
+        <item name="colorPrimaryVariant">@color/bright_view</item>
+        <item name="actionBarStyle">@style/Widget.MaterialComponents.ActionBar.Primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/green_fakta_fauna_2</item>
+        <item name="colorSecondaryVariant">@color/gray_fakta_fauna_1</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:textColorSecondary">@color/text_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/bright</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+<!--        <item name="android:windowFullscreen">true</item>-->
+    </style>
+</resources>
